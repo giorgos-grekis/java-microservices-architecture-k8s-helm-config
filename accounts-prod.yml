@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts ms PROD"
+  message: "Welcome to accounts ms PRODUCTION"
   contactDetails:
     name: "John Doe - PROD"
     email: "{cipher}a584525ff61407883773879d2cec53e5aafd37032d9bd2e9cfccffec5b279ed742cb61b3dab022042a21d61cf9e0b4bf"
