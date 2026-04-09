@@ -2,7 +2,7 @@
 
 java-microservices-architecture-k8s-helm-config
 
-## This repository serves as the centralized configuration hub for the Java Microservices Architecture project.
+## This repository serves as the centralized configuration hub for the [Java Microservices Architecture project](https://github.com/giorgos-grekis/java-microservices-architecture-k8s-helm).
 
 It manages environment-specific properties,
 Helm values, and Kubernetes deployment configurations,
