@@ -6,6 +6,6 @@ eureka:
     hostname: localhost
   client:
     fetchRegistry: false
-    registerWithEureka: false
+    registerWithEureka: false # Don;t register with yourself and don't expose your details into the registry, of the service Discovery.
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
